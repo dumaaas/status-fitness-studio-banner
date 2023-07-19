@@ -14,6 +14,7 @@ export default function Home() {
         <p className="text-white md:text-[32px] text-[26px]">Studio Status</p>
         <Hamburger
           duration={0.4}
+          color="#fff"
           easing="ease-in-out"
           toggled={isOpen}
           toggle={setOpen}
