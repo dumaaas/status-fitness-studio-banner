@@ -45,7 +45,7 @@ export default function Home() {
               amenities such as nutritional guidelines and individual
               counseling.
             </p>
-            <button className="absolute lg:relative bottom-[8px] right-[8px] rounded-[8px] md:px-[14px] md:py-[8px] px-[12px] py-[6px] hover:bg-white hover:border-red-500 bg-red-500 hover:text-red-500 border-2 md:text-[22px] sm:text-[20px] text-[18px] md:w-[150px] sm:w-[120px] w-[100px] hover:bg-transparent text-black border-black group-hover:translate-y-0 translate-y-[20%] transition-all ease-in-out duration-[0.4s] opacity-0 group-hover:opacity-100">
+            <button className="absolute lg:relative bottom-[8px] right-[8px] rounded-[8px] md:px-[14px] md:py-[8px] px-[12px] py-[6px] hover:bg-transparent hover:border-red-500 bg-red-500 hover:text-red-500 border-2 md:text-[22px] sm:text-[20px] text-[18px] md:w-[150px] sm:w-[120px] w-[100px] text-black border-black group-hover:translate-y-0 translate-y-[20%] transition-all ease-in-out duration-[0.4s] opacity-0 group-hover:opacity-100">
               BUY NOW
             </button>
           </div>
@@ -76,7 +76,7 @@ export default function Home() {
               wellness services. Perfect for ambitious enthusiasts seeking the
               highest level of support.
             </p>
-            <button className="absolute lg:relative bottom-[8px] right-[8px] rounded-[8px] md:px-[14px] md:py-[8px] px-[12px] py-[6px] bg-black border-red-500 text-red-500 border-2 md:text-[22px] sm:text-[20px] text-[18px] md:w-[150px] sm:w-[120px] w-[100px] hover:bg-transparent hover:text-black border-black group-hover:translate-y-0 translate-y-[20%] transition-all ease-in-out duration-[0.4s] opacity-0 group-hover:opacity-100">
+            <button className="absolute lg:relative bottom-[8px] right-[8px] rounded-[8px] md:px-[14px] md:py-[8px] px-[12px] py-[6px] bg-black border-red-500 text-red-500 border-2 md:text-[22px] sm:text-[20px] text-[18px] md:w-[150px] sm:w-[120px] w-[100px] hover:bg-transparent hover:text-black border-black hover:border-black group-hover:translate-y-0 translate-y-[20%] transition-all ease-in-out duration-[0.4s] opacity-0 group-hover:opacity-100">
               BUY NOW
             </button>
           </div>
@@ -106,7 +106,7 @@ export default function Home() {
               and group workouts. An affordable option for those looking to
               maintain fitness and improve health with expert guidance.
             </p>
-            <button className="absolute lg:relative bottom-[8px] right-[8px] rounded-[8px] md:px-[14px] md:py-[8px] px-[12px] py-[6px] hover:bg-white hover:border-red-500 bg-red-500 hover:text-red-500 border-2 md:text-[22px] sm:text-[20px] text-[18px] md:w-[150px] sm:w-[120px] w-[100px] hover:bg-transparent text-black border-black group-hover:translate-y-0 translate-y-[20%] transition-all ease-in-out duration-[0.4s] opacity-0 group-hover:opacity-100">
+            <button className="absolute lg:relative bottom-[8px] right-[8px] rounded-[8px] md:px-[14px] md:py-[8px] px-[12px] py-[6px] hover:border-red-500 bg-red-500 hover:text-red-500 border-2 md:text-[22px] sm:text-[20px] text-[18px] md:w-[150px] sm:w-[120px] w-[100px] hover:bg-transparent text-black border-black group-hover:translate-y-0 translate-y-[20%] transition-all ease-in-out duration-[0.4s] opacity-0 group-hover:opacity-100">
               BUY NOW
             </button>
           </div>
